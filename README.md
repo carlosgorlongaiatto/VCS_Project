@@ -1,4 +1,4 @@
-# Multi-scale patch-wise semantic segmentation of satellite images using U-Net architecture.
+# Multi-scale patch-wise semantic segmentation of satellite images using U-Net architecture
 
 ## Authors:
 - [Eugenio Fella](https://github.com/eugeniofella)
