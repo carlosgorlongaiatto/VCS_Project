@@ -1,4 +1,4 @@
-## [extract_train](./extract_train.ipynb)
+### [extract_train.ipynb](./extract_train.ipynb)
 Notebook used to unzip the file containing the data.
 
 ## [create_patches](./create_patches.ipynb)
