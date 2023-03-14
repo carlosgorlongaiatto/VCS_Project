@@ -1,2 +1,2 @@
-# [images](./images)
+## [images](./images)
 Folder containing images of relevant results.
