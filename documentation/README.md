@@ -1,4 +1,3 @@
-
 ## [report](./report.pdf)
 Report describing the project in details.
 
